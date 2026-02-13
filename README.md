@@ -1,5 +1,5 @@
-# LLM-Longitudinal-Imputation
-This repository contains data and code for the longitudinal imputation paper.
+# LLM-Longitudinal-Prediction
+This repository contains data and code for evaluating LLM-augmented predictions in longitudinal survey against the survey self-reports.
 
 The SIPP codebook is [here](https://www.census.gov/data-tools/demo/uccb/sippdict?s_keyword=).
 
